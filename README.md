@@ -1,4 +1,4 @@
-# py-AppManage
+# py-AppManage [![wakatime](https://wakatime.com/badge/user/b1cd697f-bbcd-4389-83a2-fe3b452e18fb/project/5e4fc6fc-ca20-4e9d-97a0-9ba43e1c2777.svg)](https://wakatime.com/badge/user/b1cd697f-bbcd-4389-83a2-fe3b452e18fb/project/5e4fc6fc-ca20-4e9d-97a0-9ba43e1c2777)
 
 > Author: arc/flamec
 
