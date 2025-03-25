@@ -20,6 +20,14 @@
   - [ ] /upload_h5
   - [ ] /upload_icon
   - [ ] /upload_screenshot
+  - [ ] /get_user_uploaded_apps
+  - [ ] /get_app_detail
+  - [ ] /update
+  - [ ] /delete
+  - [ ] /promote
+  - [ ] /upload_donation_qrcode
+  - [ ] /upload_screenshot_by_url
+  - [ ] /upload_donation_qrcode_by_url
 
 #### On use
 
