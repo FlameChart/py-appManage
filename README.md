@@ -17,24 +17,23 @@
 > 此处列出的 API Entry 为所有写在原有后端的 Entry
 
 - [ ] h5_apps.py
-  - [ ] /upload_h5
-  - [ ] /upload_icon
-  - [ ] /upload_screenshot
+  - [x] /upload_h5
+  - [x] /upload_icon
+  - [x] /upload_screenshot
   - [ ] /get_user_uploaded_apps
   - [ ] /get_app_detail
   - [ ] /update
   - [ ] /delete
   - [ ] /promote
-  - [ ] /upload_donation_qrcode
-  - [ ] /upload_screenshot_by_url
-  - [ ] /upload_donation_qrcode_by_url
+  - [x] /upload_donation_qrcode
+  - [x] /upload_screenshot_by_url
+  - [x] /upload_donation_qrcode_by_url
 
 #### On use
 
 >  此处列出的 APi Entry 为前端调用到的所有 Entry，不记录后端逻辑
 
 - [ ] h5_apps
-  - [ ] get_user_info
   - [ ] get_user_uploaded_apps
   - [ ] get_app_detail
   - [ ] update
@@ -42,6 +41,8 @@
   - [ ] promote
 - [ ] static
   - [ ] h5_logo_data (get logo dynamic)
+- [ ] user
+  - [ ] get_user_info
 
 ## Random Things
 
