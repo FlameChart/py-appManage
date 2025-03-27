@@ -1,4 +1,4 @@
-# py-AppManage
+
 
 > Author: arc/flamec
 
@@ -34,12 +34,13 @@
 >  此处列出的 APi Entry 为前端调用到的所有 Entry，不记录后端逻辑
 
 - [ ] h5_apps
-  - [ ] get_user_info
   - [ ] get_user_uploaded_apps
   - [ ] get_app_detail
   - [ ] update
   - [ ] delete
   - [ ] promote
+- [ ] user
+  - [ ] get_user_info
 - [ ] static
   - [ ] h5_logo_data (get logo dynamic)
 
