@@ -1,4 +1,4 @@
-
+# py-AppManage [![wakatime](https://wakatime.com/badge/user/b1cd697f-bbcd-4389-83a2-fe3b452e18fb/project/5e4fc6fc-ca20-4e9d-97a0-9ba43e1c2777.svg)](https://wakatime.com/badge/user/b1cd697f-bbcd-4389-83a2-fe3b452e18fb/project/5e4fc6fc-ca20-4e9d-97a0-9ba43e1c2777)
 
 > Author: arc/flamec
 
@@ -34,13 +34,12 @@
 >  此处列出的 APi Entry 为前端调用到的所有 Entry，不记录后端逻辑
 
 - [ ] h5_apps
+  - [ ] get_user_info
   - [ ] get_user_uploaded_apps
   - [ ] get_app_detail
   - [ ] update
   - [ ] delete
   - [ ] promote
-- [ ] user
-  - [ ] get_user_info
 - [ ] static
   - [ ] h5_logo_data (get logo dynamic)
 
