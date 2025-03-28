@@ -1,6 +1,18 @@
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, jsonify, request
 
 h5_apps_blueprint = Blueprint('h5_apps', __name__)
+
+@h5_apps_blueprint.route('/delete', method=['POST'])
+def delete():
+    data = request.get_json()
+
+    if not data or 'h5_id' not in data:
+        return jsonify({ 'success': False, 'message': 'No id is presented in your request.'}), 400
+
+
+    return jsonify(), 200
+
+# Helloworld endpoint
 
 @h5_apps_blueprint.route('/')
 def index():
